@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohamed Yasser
 ===============================
 
-Junior frone end developer
+Junior front end developer
 --------------------------
 
 A pharmacist that's passionate about coding and specifically about the world of web development, i have 1+ year of expericience and willing to learn and level up each day
