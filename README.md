@@ -8,7 +8,7 @@ A pharmacist that's passionate about coding and specifically about the world of 
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [mohamedwebdev94@gmail.com](mailto:mohamedwebdev94@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning NextJS
 * 🤝  I'm open to collaborating on CRUD Apps, API-related Apps
 
 ### Skills
